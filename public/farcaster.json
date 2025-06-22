@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEyMzQ1LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MTIzNDU2Nzg5MGFiY2RlZjEyMzQ1Njc4OTBhYmNkZWYxMjM0NTY3OCJ9",
+    "payload": "eyJkb21haW4iOiJtb25hZC1zcGluLnZlcmNlbC5hcHAifQ",
+    "signature": "MHg..."
+  },
+  "frame": {
+    "version": "1",
+    "name": "Monad Spin Game",
+    "iconUrl": "https://monad-spin.vercel.app/icon.png",
+    "homeUrl": "https://monad-spin.vercel.app",
+    "imageUrl": "https://monad-spin.vercel.app/frame-image.png",
+    "buttonTitle": "Play Spin Game",
+    "splashImageUrl": "https://monad-spin.vercel.app/splash.png",
+    "splashBackgroundColor": "#1e3a8a",
+    "webhookUrl": "https://monad-spin.vercel.app/api/webhook"
+  }
+}
